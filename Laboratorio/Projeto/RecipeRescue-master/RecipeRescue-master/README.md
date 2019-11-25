@@ -1,1 +1,0 @@
-Projeto desenvolvido para disciplina de Engenharia de software
